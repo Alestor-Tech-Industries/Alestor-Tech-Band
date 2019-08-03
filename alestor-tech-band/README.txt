@@ -1,0 +1,2 @@
+Alestor-Tech-Band is an open source smart watch made out of arduino and you can find all the code library and app over here.You can find more detail at https://alestortech.wixsite.com/alestor-tech .
+You can buy the watch over here - https://alestortech.wixsite.com/alestor-tech .
